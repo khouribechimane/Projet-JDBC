@@ -39,6 +39,8 @@ Ce projet consiste à suivre la réalisation des scripts des développeurs d’u
 3. Modifier les informations de connexion à la base de données dans le fichier Java (`URL`, `username`, `password`).
 4. Compiler et exécuter le programme Java pour interagir avec la base de données et suivre les scripts réalisés par les développeurs.
 
+## Video Demonstratif 
+
 
 
 # TP JDBC - Gestion des Villes
