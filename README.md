@@ -10,7 +10,7 @@ Ce projet consiste à suivre la réalisation des scripts des développeurs d’u
   - `Jour` (VARCHAR)
   - `NBScripts` (INT)
 
-### Exemple de Données :
+### les Données :
 | Développeur | Jour    | NBScripts |
 |-------------|---------|-----------|
 | ALAMI       | Lundi   | 1         |
