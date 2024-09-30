@@ -54,14 +54,14 @@ Ce TP consiste à créer une application Java qui permet de gérer des informati
   - `id` (INT, clé primaire) : Identifiant unique de la ville
   - `nom` (VARCHAR) : Nom de la ville
 
-### Exemples de Données :
+### Les Données :
 | id  | nom        |
 |-----|------------|
 | 1   | SAFI       |
 | 2   | MARRAKECH  |
 | 3   | EL JADIDA  |
 
-Ces données représentent quelques villes de la base, et l'application gère dynamiquement l'ajout, la mise à jour et la suppression des enregistrements.
+Ces données représentent les villes(SAFI MARRAKECH EL JADIDA) de la base
 
 ## Technologies Utilisées
 - **Langage :** Java
@@ -72,11 +72,7 @@ Ces données représentent quelques villes de la base, et l'application gère dy
 - **MySQL** : Assurez-vous que MySQL est installé et configuré.
 - **Driver JDBC MySQL** : Téléchargez et ajoutez le driver JDBC pour MySQL dans votre classpath
 ## Video demonstrative 
-Voici une vidéo qui montre le fonctionnement de mon projet.
-https://github.com/user-attachments/assets/6c0e625d-e54c-470c-9229-68aff8bb22fa
-
-
-
+https://github.com/user-attachments/assets/e1b87548-de05-4ba3-9eba-2460a2338ce0
 
 
 
