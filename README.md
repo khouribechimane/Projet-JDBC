@@ -74,7 +74,8 @@ Ces données représentent quelques villes de la base, et l'application gère dy
 ## Video demonstrative 
 Voici une vidéo qui montre le fonctionnement de mon projet.
 https://github.com/user-attachments/assets/6c0e625d-e54c-470c-9229-68aff8bb22fa
-(./media/TP-JDBC.mp4)
+
+
 
 
 
